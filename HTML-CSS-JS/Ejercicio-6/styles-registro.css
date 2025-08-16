@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(imagenes/fondo2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 850px;
+    background-color: rgba(250, 250, 250, 0.85);
+    background-blend-mode: lighten;
+    color: #222;
+}
+
+div.form {
+    font-size: 40px;
+    text-align: center;
+}
+
+div.form div {
+    margin-top: 15px;
+    font-family: Impact, Haettenschweiler, 'Times New Roman', Times, serif;
+}
+
+div label input, select {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: 2px solid black;
+    border-left: 7px solid grey;
+    border-radius: 5px;
+}
+
+div.enviar label input {
+    margin-top: 15px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+span {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
