@@ -11,7 +11,7 @@ Ejercicios realizados en HTML, CSS y JavaScript.
 
 ### 2. api-express-prisma-auth-docker
 
-Versión dockerizada del backend y frontend con Express.js, Prisma, JWT, React y Vite. Incluye formularios con React Hook Form + Yup, validaciones y autorización. Además contiene 5 tests backend.
+Versión más avanzada y dockerizada del backend y frontend con Express.js, Prisma, JWT, React y Vite. Incluye formularios con React Hook Form + Yup, validaciones y autorización. Además contiene 5 tests backend. 
 
 ```text
 📂 api-express-prisma-auth-docker/
@@ -157,7 +157,7 @@ Frontend avanzado con React + Bootstrap.
     └── App.css
 ```       
 
-Nota: Esta es la versión más avanzada del frontend, integrando librerías UI, hooks y context para un manejo más profesional del estado y la interfaz. Es el mismo que aparece en la carpeta api-express.
+Nota: Esta es una versión avanzada del frontend, integrando librerías UI, hooks y context para un manejo más profesional del estado y la interfaz. Es el mismo que aparece en la carpeta api-express-prisma y api-express. 
 
 ## 🛠 Tecnologías utilizadas
 
