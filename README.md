@@ -162,8 +162,8 @@ Nota: Esta es la versión más avanzada del frontend, integrando librerías UI, 
 ## 🛠 Tecnologías utilizadas
 
 - Frontend: React, Vite, Bootstrap, React Hook Form, Yup
-- Backend: Node.js, Express.js, Prisma ORM, JWT
-- Testing: Jest / Supertest (para la API)
+- Backend: Node.js, Express.js, Prisma ORM, JWT, ZOD
+- Testing: Jest 
 - Contenedores: Docker (solo en la versión dockerizada)
 - CORS: Control de origen para frontend externo
 - Supabase: Hosting de la base de datos
